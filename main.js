@@ -11,8 +11,8 @@ preload: function() {
     game.stage.backgroundColor = '#71c5cf';
 
     // Load the bird sprite
-    game.load.image('bird', 'assets/bird.png'); 
-    game.load.image('pipe', 'assets/pipe.png'); 
+    game.load.image('bird', 'assets/bird1.png'); 
+    game.load.image('pipe', 'assets/pipe1.png'); 
     
     
     },
